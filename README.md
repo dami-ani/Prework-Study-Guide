@@ -13,7 +13,7 @@ A study guide for course pre-work.
 
 N/A. 
 
-# To Install a project and get the development environment running, you'll need to follow a few steps to code locally. To code locally on our machine, set a a local envireonment to write, view and edit the code in a range of formats. 
+# To Install a project and get the development environment running, you will need to follow a few steps to code locally. To code locally on our machine, set a a local envireonment to write, view and edit the code in a range of formats. 
 - Directing to the working directory in this case prework-study-guide add a HTML folder that you can open in VS Code.
 - Enter touch.html and then code . this should automatically open VS Code to begin a project.
 - Click the index.html file and begin to enter the code.
